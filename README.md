@@ -1,2 +1,2 @@
 # bwitdoc.github.io
-This is a test repository for WEB200.
+This is a host repository for my portfolio project.
