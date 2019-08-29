@@ -1,0 +1,82 @@
+body {
+    overflow: auto;
+}
+html, body {
+    height: 100%;
+}
+body {
+    color: #feeeee;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0px 300px 0px 300px;
+}
+.header {
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 30px;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 0.2;
+    text-align: center;
+    border: solid #2C423F;
+    border-width: 0px 4px 4px 4px;
+    margin: 50px;
+    z-index: 100;
+}
+h2 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 38px;
+    z-index: 90;
+}
+.column1 {
+    float: left;
+    width: 0px 400px 0px 0px;
+    margin 10px;
+    z-index: 80;
+}
+.column2 {
+    float: right;
+    width: 400px;
+    margin: 10px;
+    z-index: 70;
+}
+.Introduction {
+    background-color: #2C423F;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    margin: 0px 50px 0px 50px;
+    padding: 15px 200px 50px 200px;
+    z-index: 60;
+}
+.biosite, .web200, .web230, .port-prototype, .web330 {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    margin: 50px;
+    padding: 15px 0px 0px 0px;
+    z-index: 50;
+}
+.container {
+    border: solid #2C423F;
+    border-width: 0px 4px 0px 4px;
+    margin: 50px;
+    z-index: 40;
+}
+.footer {
+    background-color: #2C423F;
+    color: #feeeee;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    padding: 30px;
+    margin: 50px;
+    z-index: 30;
+}
